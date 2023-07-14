@@ -1,5 +1,7 @@
 # kuku
-Рецепты по git:
+##Рецепты по git:
+#Как вставить картинку в README в github?
+[подпись картинки](указание пути до файла(если картинка расположена в том же реопозитории до можно написать https://github.com/{username}/{repositoriy}/blob/{branch}/{path}/{img_name.format}))
 
 
 git branch -m <name> -- создать новую ветвь
